@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krudip-qa
+- 👋 Hi, I’m Krupa Parekh 
 - 👀 I’m interested in Automation testing, API testing and Mobile testing 
 - 💞️ I’m looking to collaborate with latest technology and best practices
 - 📫 Please feel free to reach me on krupaparekh2104@gmail.com 
